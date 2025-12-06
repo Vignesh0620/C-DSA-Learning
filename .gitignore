@@ -1,1 +1,19 @@
+# Editor / IDE
+.vscode/
+
+# Build artifacts
+*.out
 *.exe
+*.o
+*.obj
+*.dll
+*.class
+
+# Backup / temp files
+*~
+*.swp
+*.tmp
+
+# Common folders
+/build/
+bin/
